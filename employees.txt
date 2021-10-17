@@ -1,0 +1,8 @@
+1111111 Matthew Full-time 7282 8296 889
+2222222 Clara Part-time 278 5000 200 76
+3333333 Kevin Part-time 550 3800 900 9
+4444444 Meera Full-time 9082 185033 800
+5555555 James Full-time 7283 19077 700
+6666666 Belinda Part-time 800 9888 900 93
+7777777 Akshay Part-time 678 2839 800 10
+8888888 Pooja Full-time 8257 15000 900
